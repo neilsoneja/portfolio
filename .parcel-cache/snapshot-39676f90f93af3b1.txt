@@ -746,7 +746,7 @@
 85/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/transformer-babel/src/jsx.js1729520037988431000 0
 91/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/transformer-babel/lib/constants.js1729520037693860000 0
 88/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/transformer-babel/lib/config.js1729520037589838000 0
-67/home/hp/Documents/GitHub/portfolio/src/sass/sections/_contact.scss1729530282869110000 0
+67/home/hp/Documents/GitHub/portfolio/src/sass/sections/_contact.scss1734436846148392536 0
 88/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/transformer-babel/lib/babel7.js1729520036906917000 0
 87/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/transformer-babel/lib/utils.js1729520038224314000 0
 97/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/transformer-babel/lib/babelErrorUtils.js1729520037161984000 0
