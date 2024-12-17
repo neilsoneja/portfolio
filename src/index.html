@@ -34,16 +34,40 @@
     <!-- **** Hero Section **** -->
     <section id="hero" class="jumbotron" >
       <div class="container">
-        <h1 class="hero-title load-hidden custom-spacing" style="color: #ffffffe0;">
-          Hi, my name is <span class="text-color-main" style="font-weight: bold; font-size: 5.6rem">  Neil Soneja</span>
-        </h1>
-        <h1 class="hero-title load-hidden custom-spacing" style="color: #ffffffe0;">
-          I'm the Unknown Developer.
-        </h1>
-        <p class="hero-cta load-hidden">
-          <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about"
-            >Know more</a>
-        </p>
+        <div class="row">          
+          <div class="col-lg-8 col-sm-12">
+            
+            <h1 class="hero-title load-hidden custom-spacing" style="color: #ffffffe0;padding-top: 125px;">
+              
+              Hi, my name is <span class="text-color-main" style="font-weight: bold; font-size: 5.6rem">  Neil Soneja</span>
+            </h1>
+            <h1 class="hero-title load-hidden custom-spacing" style="color: #ffffffe0; font-size: 2.6rem">
+              Developer | Builder | Problem Solver
+            </h1>
+            <p class="hero-cta load-hidden">
+              <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about"
+                >Know more</a>
+            </p>
+          </div>
+
+          <div class="col-lg-4 col-sm-12 ">
+              <a rel="noreferrer" href="#!" target="_blank">
+                <div
+                  data-tilt
+                  data-tilt-max="4"
+                  data-tilt-glare="true"
+                  data-tilt-max-glare="0.5"
+                  class="thumbnail rounded js-tilt"
+                >
+                  <img
+                    alt="Project Image"
+                    class="hero-title load-hidden custom-spacing img-fluid"
+                    src="assets/solo.png"
+                  />
+                </div>
+              </a>
+          </div>
+        </div>
       </div>
     </section>
     <!-- /END Hero Section -->
@@ -54,39 +78,27 @@
         <h2 class="section-title load-hidden">About me</h2>
         <div class="row about-wrapper">
 
-          <!-- 
-          <div class="col-md-4 col-sm-12">
-            <div class="about-wrapper__image load-hidden">
-              <img
-                alt="Profile Image"
-                class="img-fluid rounded shadow-lg"
-                height="auto"
-                width="300px"
-                src="assets/profile.jpg"
-                alt="Profile Image"
-              />
-            </div>
-          </div>
-           -->
-
-          <div class=" col-sm-12"style="padding-left:60px; padding-right:60px;" >
+          <div class=" col-sm-12"style="padding-left:60px; padding-right:60px; " >
             <div class="about-wrapper__info load-hidden">
-              <p class="about-wrapper__info" style="font-size: 25px;">
-                I am a critical thinker and problem solver, skilled at finding solutions in various fields, especially technology and the digital space. I am well versed in hardware and software, can learn new technologies quickly, and adapt easily to different tasks. I work well in a team or in a non-collaborative work setting with minimal supervision.
-              </p>
-              <p class="about-wrapper__info" style="font-size: 18px;">
-                Extra Information about you! like hobbies and your goals.
-              </p>
-              <span class="d-flex mt-3" style="justify-content: center;">
-                <a
-                  rel="noreferrer"
-                  target="_blank"
-                  class="cta-btn cta-btn--resume"
-                  href="assets/resume.pdf"
-                >
-                  View Resume
-                </a>
-              </span>
+              
+                <p class="about-wrapper__info" style="font-size: 25px;">
+                  I am a critical thinker and problem solver, skilled at finding solutions in various fields, especially technology and the digital space. I am well versed in hardware and software, can learn new technologies quickly, and adapt easily to different tasks. I work well in a team or in a non-collaborative work setting with minimal supervision.
+                </p>
+                <p class="about-wrapper__info" style="font-size: 18px;">
+                  Extra Information about you! like hobbies and your goals.
+                </p>
+                <span class="d-flex mt-3" style="justify-content: center;">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    class="cta-btn cta-btn--resume"
+                    href="assets/resume.pdf"
+                  >
+                    View Resume
+                  </a>
+                </span>
+              
+
             </div>
           </div>
         </div>
@@ -103,15 +115,15 @@
 
           <!-- Notice: each .row is a project -->
           <div class="row">
-            <div class="col-lg-5 col-sm-12">
+            <div class="col-lg-5 col-sm-12" style="padding-top: 55px;">
               <div class="project-wrapper__text load-hidden">
                 <h3 class="project-wrapper__text-title">Google Suites Automation</h3>
-                <div>
-                  <p class="mb-4" style="font-weight: bold; text-align: left;">
+                <div class="mb-4" style="font-size:medium;" >
+                  <p style="font-weight: bold; text-align: left;">
                     Automated processes across Google Services.
                   </p>   
-                  <p class="mb-4"  style="font-size:small;" >  
-                    Google Forms submissions are automatically converted to Google Docs or PDF following an exisitng format that can be forwarded automatically via Gmail. The skills acquired are programming using AppScript, managing data from the user to the dashboard, and traversing and modifying various Google services.  
+                  <p style="font-size:small;" >  
+                    Google Forms submissions are automatically converted to Google Docs or PDF following an exisitng format that can be forwarded automatically via Gmail. The skills acquired are programming using AppScript, usage and modification of various Google services, and managing data from the user to the dashboard.
                   </p>
                 </div>
                 <a
@@ -159,7 +171,7 @@
 
           <!-- Notice: each .row is a project -->
           <div class="row">
-            <div class="col-lg-5 col-sm-12">
+            <div class="col-lg-5 col-sm-12" style="padding-top: 35px;">
               <div class="project-wrapper__text load-hidden">
                 <h3 class="project-wrapper__text-title">Portfolio</h3>
                 <div>
@@ -167,7 +179,7 @@
                     Amazon Web Services EC2 and Route 53
                   </p>   
                   <p class="mb-4"  style="font-size:small;" >  
-                    This website acts a my portfolio that is deployed from an AWS EC2 instance
+                    This website that acts as my portfolio is deployed from an AWS EC2 instance routed using AWS Route 53 service. Skills acquired are deployment of the website in a virtual server running on linux and full stack development on Node.js
                   </p>
                 </div>
                 <a
@@ -182,7 +194,7 @@
                   rel="noreferrer"
                   target="_blank"
                   class="cta-btn text-color-main"
-                  href="https://github.com/neilsoneja/Google-Suite-Automation"
+                  href="https://github.com/neilsoneja/portfolio"
                 >
                   Source Code
                 </a>
@@ -201,7 +213,7 @@
                     <img
                       alt="Project Image"
                       class="img-fluid"
-                      src="assets/auto.jpg"
+                      src="assets/portfolio.png"
                     />
                   </div>
                 </a>
@@ -213,21 +225,22 @@
 
           <!-- Notice: each .row is a project -->
           <div class="row">
-            <div class="col-lg-4 col-sm-12">
+            <div class="col-lg-5 col-sm-12" style="padding-top: 35px;">
               <div class="project-wrapper__text load-hidden">
-                <h3 class="project-wrapper__text-title">Project Title 1</h3>
+                <h3 class="project-wrapper__text-title">Variety Classifier</h3>
                 <div>
-                  <p class="mb-4">
-                    Demonstrate in this description the skills of a programmer: such as having commitment, 
-                    having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, 
-                    you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.
+                  <p class="mb-4" style="font-weight: bold; text-align: left;">
+                    Deep Learning | Python | Google Colab
+                  </p>   
+                  <p class="mb-4"  style="font-size:small;" >  
+                    This project utilize the power of deep learning to identify varieties of sugarcane to solve problems in the sugarcane industry of the Philippines. It uses the Convolutional Neural Network transfer learning to train and evaluate a model that can classify images. Skills learned in this project are optimization of hyperparameters and classification layer in deep learning, and Google Colab IDE.
                   </p>
                 </div>
                 <a
                   rel="noreferrer"
                   target="_blank"
                   class="cta-btn cta-btn--hero"
-                  href="#!"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSeylyJkG80i5vRGIltTURP8GzMikLg00nRrs5DDlIQwMjl1KQ/viewform?usp=sf_link"
                 >
                   See Live
                 </a>
@@ -235,13 +248,13 @@
                   rel="noreferrer"
                   target="_blank"
                   class="cta-btn text-color-main"
-                  href="#!"
+                  href="https://github.com/neilsoneja/portfolio"
                 >
                   Source Code
                 </a>
               </div>
             </div>
-            <div class="col-lg-8 col-sm-12">
+            <div class="col-lg-7 col-sm-12">
               <div class="project-wrapper__image load-hidden">
                 <a rel="noreferrer" href="#!" target="_blank">
                   <div
@@ -254,7 +267,7 @@
                     <img
                       alt="Project Image"
                       class="img-fluid"
-                      src="assets/project.jpg"
+                      src="assets/portfolio.png"
                     />
                   </div>
                 </a>
@@ -265,20 +278,22 @@
 
           <!-- Notice: each .row is a project -->
           <div class="row">
-            <div class="col-lg-4 col-sm-12">
+            <div class="col-lg-5 col-sm-12" style="padding-top: 35px;">
               <div class="project-wrapper__text load-hidden">
-                <h3 class="project-wrapper__text-title">Project Title 2</h3>
+                <h3 class="project-wrapper__text-title">Sugarcane Sorter</h3>
                 <div>
-                  <p class="mb-4">
-                    If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. 
-                    Additionally, if you made use of the mastery of a second language, it will reflect on you professionalism.
+                  <p class="mb-4" style="font-weight: bold; text-align: left;">
+                    Microcontroller | Microprocessor | Arduino | Raspberry Pi
+                  </p>   
+                  <p class="mb-4"  style="font-size:small;" >  
+                    This device effectively sort sugarcane according to its identified variety through sensors and mechanisms. Controlled mainly via Raspberry Pi computer connected to an Arduino Uno 
                   </p>
                 </div>
                 <a
                   rel="noreferrer"
                   target="_blank"
                   class="cta-btn cta-btn--hero"
-                  href="#!"
+                  href="https://docs.google.com/forms/d/e/1FAIpQLSeylyJkG80i5vRGIltTURP8GzMikLg00nRrs5DDlIQwMjl1KQ/viewform?usp=sf_link"
                 >
                   See Live
                 </a>
@@ -286,13 +301,13 @@
                   rel="noreferrer"
                   target="_blank"
                   class="cta-btn text-color-main"
-                  href="#!"
+                  href="https://github.com/neilsoneja/portfolio"
                 >
                   Source Code
                 </a>
               </div>
             </div>
-            <div class="col-lg-8 col-sm-12">
+            <div class="col-lg-7 col-sm-12">
               <div class="project-wrapper__image load-hidden">
                 <a rel="noreferrer" href="#!" target="_blank">
                   <div
@@ -305,7 +320,7 @@
                     <img
                       alt="Project Image"
                       class="img-fluid"
-                      src="assets/project.jpg"
+                      src="assets/portfolio.png"
                     />
                   </div>
                 </a>
@@ -313,6 +328,7 @@
             </div>
           </div>
           <!-- /END Project -->
+
         </div>
       </div>
     </section>
