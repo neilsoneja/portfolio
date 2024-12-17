@@ -1,11 +1,14 @@
-6930
-50/home/hp/Documents/GitHub/portfolio/src/index.html1733559097583775089 0
+6936
+50/home/hp/Documents/GitHub/portfolio/src/index.html1734436231992236637 0
 47/home/hp/Documents/GitHub/portfolio/src/scripts1729518658765127000 1
 66/home/hp/Documents/GitHub/portfolio/src/data/scrollRevealConfig.js1729518657951940000 0
 60/home/hp/Documents/GitHub/portfolio/src/assets/portfolio.png1731597801319602354 0
 58/home/hp/Documents/GitHub/portfolio/src/assets/profile.jpg1729518657780477000 0
 58/home/hp/Documents/GitHub/portfolio/src/assets/favicon.png1729518657717416000 0
+55/home/hp/Documents/GitHub/portfolio/src/assets/kaye.png1734423538947617078 0
+53/home/hp/Documents/GitHub/portfolio/src/assets/ml.png1734410672673359350 0
 55/home/hp/Documents/GitHub/portfolio/src/assets/solo.png1731597676568220583 0
+55/home/hp/Documents/GitHub/portfolio/src/assets/cane.png1734423397826313434 0
 66/home/hp/Documents/GitHub/portfolio/src/sass/base/_typography.scss1729518658231820000 0
 60/home/hp/Documents/GitHub/portfolio/src/sass/base/_base.scss1729518658178994000 0
 69/home/hp/Documents/GitHub/portfolio/src/sass/components/_buttons.scss1729533455693215000 0
@@ -19,14 +22,16 @@
 66/home/hp/Documents/GitHub/portfolio/src/sass/layout/_sections.scss1729518658420890000 0
 51/home/hp/Documents/GitHub/portfolio/src/sass/layout1729518658371669000 1
 44/home/hp/Documents/GitHub/portfolio/src/sass1729518658649782000 1
-62/home/hp/Documents/GitHub/portfolio/dist/index.975ef6c8.js.map1733559103691385118 0
-59/home/hp/Documents/GitHub/portfolio/dist/index.4a508c1d.css1733559103704382229 0
-58/home/hp/Documents/GitHub/portfolio/dist/index.975ef6c8.js1733559103687386007 0
-58/home/hp/Documents/GitHub/portfolio/dist/solo.6812d93b.png1733559103670389786 0
+62/home/hp/Documents/GitHub/portfolio/dist/index.975ef6c8.js.map1734432883765240704 0
+59/home/hp/Documents/GitHub/portfolio/dist/index.4a508c1d.css1734432883806233536 0
+56/home/hp/Documents/GitHub/portfolio/dist/ml.647ea836.png1734432883745244200 0
+58/home/hp/Documents/GitHub/portfolio/dist/index.975ef6c8.js1734432883752242976 0
+58/home/hp/Documents/GitHub/portfolio/dist/solo.6812d93b.png1734432883753242802 0
 61/home/hp/Documents/GitHub/portfolio/dist/project.f500882b.jpg1733557537289655963 0
-63/home/hp/Documents/GitHub/portfolio/dist/portfolio.a29f0d03.png1733559103670389786 0
-58/home/hp/Documents/GitHub/portfolio/dist/assets/resume.pdf1733559103665390897 0
-61/home/hp/Documents/GitHub/portfolio/dist/favicon.2a2e97fc.png1733559103665390897 0
+58/home/hp/Documents/GitHub/portfolio/dist/kaye.4529f3d9.png1734432883779238256 0
+63/home/hp/Documents/GitHub/portfolio/dist/portfolio.a29f0d03.png1734432883755242452 0
+58/home/hp/Documents/GitHub/portfolio/dist/assets/resume.pdf1734432883772239480 0
+61/home/hp/Documents/GitHub/portfolio/dist/favicon.2a2e97fc.png1734432883729246997 0
 70/home/hp/Documents/GitHub/portfolio/node_modules/msgpackr/unpack.d.cts1729518996121576000 0
 69/home/hp/Documents/GitHub/portfolio/node_modules/msgpackr/unpack.d.ts1729518997136748000 0
 65/home/hp/Documents/GitHub/portfolio/node_modules/msgpackr/pack.js1729518996452500000 0
@@ -65,7 +70,7 @@
 97/home/hp/Documents/GitHub/portfolio/node_modules/@swc/helpers/src/_class_private_field_update.mjs1729520041535717000 0
 109/home/hp/Documents/GitHub/portfolio/node_modules/@swc/helpers/src/_class_static_private_field_destructure.mjs1729520041539874000 0
 77/home/hp/Documents/GitHub/portfolio/node_modules/@swc/helpers/src/_update.mjs1729520041698129000 0
-57/home/hp/Documents/GitHub/portfolio/src/assets/resume.pdf1729518657892643000 0
+57/home/hp/Documents/GitHub/portfolio/src/assets/resume.pdf1734432477964024333 0
 84/home/hp/Documents/GitHub/portfolio/node_modules/@swc/helpers/src/_object_spread.mjs1729520041662029000 0
 87/home/hp/Documents/GitHub/portfolio/node_modules/@swc/helpers/src/_get_prototype_of.mjs1729520041634542000 0
 81/home/hp/Documents/GitHub/portfolio/node_modules/@swc/helpers/src/_call_super.mjs1729520041515366000 0
@@ -1092,7 +1097,7 @@
 83/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/graph/src/shared-buffer.js1729520038098624000 0
 82/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/graph/src/ContentGraph.js1729520037598815000 0
 76/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/graph/src/BitSet.js1729520037288000000 0
-46/home/hp/Documents/GitHub/portfolio/src/assets1731996355737752421 1
+46/home/hp/Documents/GitHub/portfolio/src/assets1734432535747909321 1
 75/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/graph/src/index.js1729520037986425000 0
 82/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/graph/lib/ContentGraph.js1729520037500717000 0
 76/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/graph/lib/BitSet.js1729520037204869000 0
@@ -2080,6 +2085,7 @@
 62/home/hp/Documents/GitHub/portfolio/node_modules/clone/LICENSE1729518995650808000 0
 101/home/hp/Documents/GitHub/portfolio/node_modules/csso/node_modules/css-tree/lib/syntax/node/Number.js1729520041187481000 0
 79/home/hp/Documents/GitHub/portfolio/node_modules/lmdb/dependencies/lmdb-data-v11729520036491031000 1
+58/home/hp/Documents/GitHub/portfolio/dist/cane.dc3726c4.png1734432883741244900 0
 91/home/hp/Documents/GitHub/portfolio/node_modules/css-tree/cjs/utils/create-custom-error.cjs1729520038182785000 0
 105/home/hp/Documents/GitHub/portfolio/node_modules/csso/node_modules/css-tree/lib/definition-syntax/walk.js1729520041321915000 0
 64/home/hp/Documents/GitHub/portfolio/node_modules/clone/README.md1729518995538409000 0
@@ -2706,7 +2712,7 @@
 91/home/hp/Documents/GitHub/portfolio/node_modules/@swc/helpers/esm/_await_async_generator.js1729520041328446000 0
 72/home/hp/Documents/GitHub/portfolio/node_modules/csso/lib/clean/utils.js1729520040442756000 0
 80/home/hp/Documents/GitHub/portfolio/node_modules/semver/ranges/to-comparators.js1729520039007605000 0
-58/home/hp/Documents/GitHub/portfolio/dist/auto.ee378762.jpg1733559103665390897 0
+58/home/hp/Documents/GitHub/portfolio/dist/auto.ee378762.jpg1734432883730246822 0
 70/home/hp/Documents/GitHub/portfolio/node_modules/mdn-data/CHANGELOG.md1729520038755292000 0
 73/home/hp/Documents/GitHub/portfolio/node_modules/csso/cjs/clean/utils.cjs1729520038879889000 0
 82/home/hp/Documents/GitHub/portfolio/node_modules/vanilla-tilt/dist/vanilla-tilt.js1729518996149046000 0
@@ -3104,7 +3110,7 @@
 90/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/customevent.js1729518998254266000 0
 106/home/hp/Documents/GitHub/portfolio/node_modules/csso/node_modules/css-tree/cjs/syntax/node/MediaQuery.cjs1729520040187734000 0
 84/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/utils/src/getCertificate.js1729520038183780000 0
-48/home/hp/Documents/GitHub/portfolio/package.json1730486762655550000 0
+48/home/hp/Documents/GitHub/portfolio/package.json1734432877759304211 0
 59/home/hp/Documents/GitHub/portfolio/node_modules/domhandler1729518995931607000 1
 109/home/hp/Documents/GitHub/portfolio/node_modules/@swc/helpers/cjs/_class_static_private_field_destructure.cjs1729520041098945000 0
 123/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Combinator.js1729520037963585000 0
@@ -3859,7 +3865,7 @@
 106/home/hp/Documents/GitHub/portfolio/node_modules/@babel/highlight/node_modules/supports-color/package.json1729518995342891000 0
 76/home/hp/Documents/GitHub/portfolio/node_modules/semver/ranges/intersects.js1729520038059633000 0
 99/home/hp/Documents/GitHub/portfolio/node_modules/css-select/node_modules/entities/lib/encode.js.map1729520039671870000 0
-40/home/hp/Documents/GitHub/portfolio/dist1733559103709381118 1
+40/home/hp/Documents/GitHub/portfolio/dist1734432883813232312 1
 91/home/hp/Documents/GitHub/portfolio/node_modules/@popperjs/core/lib/dom-utils/contains.d.ts1729518997648435000 0
 90/home/hp/Documents/GitHub/portfolio/node_modules/@lmdb/lmdb-linux-x64/node.napi.glibc.node1730486705341275000 0
 98/home/hp/Documents/GitHub/portfolio/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest5.c1729520040024806000 0
@@ -5762,7 +5768,7 @@
 95/home/hp/Documents/GitHub/portfolio/node_modules/.bin/node-gyp-build-optional-packages-test.ps11729520041835297000 0
 71/home/hp/Documents/GitHub/portfolio/node_modules/semver/functions/eq.js1729520037596820000 0
 102/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/stricttransportsecurity.js1729518998978685000 0
-51/home/hp/Documents/GitHub/portfolio/dist/index.html1733559103679387786 0
+51/home/hp/Documents/GitHub/portfolio/dist/index.html1734432883743244550 0
 89/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/decorators.js1729518998295765000 0
 102/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/css-backgroundblendmode.js1729518997852388000 0
 78/home/hp/Documents/GitHub/portfolio/node_modules/escape-string-regexp/index.js1729518995438938000 0
@@ -5786,7 +5792,7 @@
 101/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/viewport-unit-variants.js1729518999099494000 0
 104/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/document-scrollingelement.js1729518998332882000 0
 90/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/geolocation.js1729518998460757000 0
-63/home/hp/Documents/GitHub/portfolio/dist/index.4a508c1d.css.map1733559103708381340 0
+63/home/hp/Documents/GitHub/portfolio/dist/index.4a508c1d.css.map1734432883811232662 0
 85/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/brotli.js1729518997402934000 0
 87/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/transformer-html/lib/inline.js1729520037614773000 0
 97/home/hp/Documents/GitHub/portfolio/node_modules/caniuse-lite/data/features/html-media-capture.js1729518998509019000 0
@@ -6848,7 +6854,7 @@
 84/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/reporter-dev-server/LICENSE1729520037336361000 0
 75/home/hp/Documents/GitHub/portfolio/node_modules/htmlparser2/lib/index.d.ts1729518996676564000 0
 98/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js1729520038564027000 0
-47/home/hp/Documents/GitHub/portfolio/dist/assets1733559103670389786 1
+47/home/hp/Documents/GitHub/portfolio/dist/assets1734432883782237732 1
 71/home/hp/Documents/GitHub/portfolio/node_modules/jquery/src/deferred.js1729518996857408000 0
 93/home/hp/Documents/GitHub/portfolio/node_modules/@parcel/reporter-dev-server/src/HMRServer.js1729520037706990000 0
 79/home/hp/Documents/GitHub/portfolio/node_modules/type-fest/ts41/snake-case.d.ts1729518996864767000 0
