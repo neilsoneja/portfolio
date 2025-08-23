@@ -1,3 +1,61 @@
+// Custom hero button styles
+.brand-icon {
+  color: #494949e0;   /* SVG path inherits this if using fill="currentColor" */
+}
+.header-name {
+	margin-right: auto;
+	color: #494949e0;
+	letter-spacing: 0.5px;
+	padding-left: 16px;
+}
+.header-subtitle {
+	margin-right: auto;
+	font-size: 1.1rem;
+	color: #494949e0;
+	letter-spacing: 0.5px;
+	padding-left: 16px;
+}
+// Fixed header styles
+.fixed-header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: #fff;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+	z-index: 1000;
+	height: 60px;
+	display: flex;
+	align-items: center;
+}
+
+.header-content {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding: 0 32px;
+	height: 100%;
+}
+
+.header-icons {
+	display: flex;
+	gap: 24px;
+}
+
+.header-icons a {
+	color: #333;
+	font-size: 1.5rem;
+	transition: color 0.2s;
+}
+
+.header-icons a:hover {
+	color: #007bff;
+}
+
+body {
+	padding-top: 60px; // To prevent content from being hidden under the fixed header
+}
 @import "./sass/vendors/bootstrap.scss";
 
 @import "./sass/abstracts/mixins";
